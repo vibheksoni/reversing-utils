@@ -1,0 +1,1 @@
+g++ .\main.cpp -static -o RunProcSuspended
